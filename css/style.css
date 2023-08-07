@@ -73,7 +73,7 @@ body {
   background-color: #fff;
   overflow: scroll;
   height: 100%;
-  
+
 }
 
 [tabindex="-1"]:focus {
@@ -12081,6 +12081,8 @@ h5,
 
 .owl-carousel {
   position: relative;
+  -ms-touch-action: auto;
+  touch-action: auto;
 }
 
 .owl-carousel .owl-item {
