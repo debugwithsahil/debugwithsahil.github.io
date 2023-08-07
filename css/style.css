@@ -7144,6 +7144,8 @@ a.close.disabled {
 
 .carousel {
   position: relative;
+  -ms-touch-action: auto;
+  touch-action: auto;
 }
 
 .carousel.pointer-event {
