@@ -12085,12 +12085,6 @@ h5,
   touch-action: auto;
 }
 
-.owl-carousel .owl-stage,
-.owl-carousel.owl-drag .owl-item {
-  -ms-touch-action: auto;
-  touch-action: auto;
-}
-
 .owl-carousel .owl-item {
   opacity: .4;
 }
